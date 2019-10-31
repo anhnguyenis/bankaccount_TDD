@@ -20,3 +20,11 @@ Based on the following user stories, I will create simple banking app using test
 ```
 
 My process will be to adopt a rigorous TDD process using Red, Green and Refactor.
+
+To setup the bank_account app folder with rspec:
+
+```
+* mkdir bankaccount
+* cd bankaccount
+* rspec --init
+```
