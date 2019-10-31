@@ -1,6 +1,6 @@
 # Test Drive a Simple Banking App
 
-Based on the following user stories, I will create simple banking app using test driving development processes.
+Based on the following user stories, I created a simple banking app using test driving development processes.
 
 ## User Stories
 ```
@@ -19,9 +19,9 @@ Based on the following user stories, I will create simple banking app using test
 * I would like to view my balance
 ```
 
-My process will be to adopt a rigorous TDD process using Red, Green and Refactor.
+My process was to adopt a rigorous TDD process using Red, Green and Refactor.
 
-To setup the bank_account app folder with rspec:
+To setup the bank_account app folder with rspec I completed the following steps:
 
 ```
 * mkdir bankaccount
@@ -29,15 +29,15 @@ To setup the bank_account app folder with rspec:
 * rspec --init
 ```
 
-To write tests a spec file is created by:
+To write tests I created a spec file by:
 
 ```
 * touch spec/bank_account_spec.rb
 ```
 
-The first test is entered into this file bank_account_spec.rb
+The tests were then entered into this file bank_account_spec.rb
 
-To write production code to pass tests we put production in a folder called lib:
+To write production code to pass tests I put them in a folder called lib using:
 
 ```
 * mkdir lib
