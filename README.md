@@ -28,3 +28,18 @@ To setup the bank_account app folder with rspec:
 * cd bankaccount
 * rspec --init
 ```
+
+To write tests a spec file is created by:
+
+```
+* touch spec/bank_account_spec.rb
+```
+
+The first test is entered into this file bank_account_spec.rb
+
+To write production code to pass tests we put production in a folder called lib:
+
+```
+* mkdir lib
+* touch lib/bank_account.rb
+```
